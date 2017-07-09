@@ -1,0 +1,248 @@
+body{
+    background:#eee;
+}
+:focus {
+outline: 0;
+}
+a,a:hover{
+  text-decoration: initial;
+  color: #333;
+}
+#header{
+       float: left;
+    width: 100%;
+    height: 63px;
+    background: white;
+    box-shadow: 0 0 4px 0 rgba(0,0,0,.08), 0 2px 4px 0 rgba(0,0,0,.12);
+    z-index: 1000;
+    position: fixed
+}
+.mp_idz{
+   margin: 8px 11%;
+  width: 78%;
+}
+.logo_ik_f{
+ float: left;
+    width: 13%;
+    height: 45px
+}
+.categorie_uf_eo{
+    float: left;
+    width: 49%;
+    margin-left: 4px;
+    height: 45px
+}
+.go_udi{
+     float: left;
+    width: 37%;
+    margin-left: 4px;
+    height: 45px
+}
+.logo_ik_f img{
+        float: left;
+    width: 32px;
+    margin-top: 8px;
+}
+.ss_ais {
+  font-size: 24px;
+  margin-top: 6px;
+  float: left;
+  margin-left: 0px;
+  font-family: 'Lobster';
+  font-style: normal;
+  font-weight: 400;
+}
+.ki_cudk{
+ float: left;
+    width: auto;
+    padding-right: 7px
+}
+.ki_cudk input{
+width: 400px;
+    height: 34px;
+    margin-top: 7px;
+    border: 1px solid #CDCDCD;
+    padding: 0 39px;
+    font-size: 18px;
+    background-size: contain;
+    border-radius: 2px;
+    background-image: url(img/search.png);
+    background-repeat: no-repeat;
+    background-position-x: 4px;
+    background-position-y: 1px;
+}
+.sd_idmp{
+ float: right;
+    margin-top: 5px;
+    width: 37px;
+    height: 37px;
+    border: 1px solid #F9E6E6;
+    border-radius: 2px;
+    background-image: url(img/gt.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    cursor: pointer
+}
+.s_qi_s{
+    float: right;
+    margin-right: 7px;
+    width: 48px;
+    height: 45px;
+    padding-left: 7px;
+}
+.dhh_siz{
+     display: none;
+    position: absolute;
+    background-color: #fff;
+    min-width: 134px;
+    overflow: auto;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+        right: 73px;
+    margin-top: 58px;
+}
+.show {display:block;}
+.skk_ism a{
+       color: #fff;
+    text-decoration: blink; 
+}
+.vvv{
+        font-size: 10px;
+    font-weight: 600;
+    font-family: sans-serif;
+}
+.dhh_siz h5{
+    margin: 1px;
+    margin-bottom: 6px;
+    font-weight: 900;
+    color: #060606;
+}
+.dhh_siz a {
+      color: #757575;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    border-bottom: 1px solid #e4e4e4;
+}
+
+.dhh_siz a:hover {background-color: #f1f1f1}
+.jdu_dkj{
+      float: left;
+  margin: 0px 11%;
+  margin-top: 98px;
+  width: 78%;
+
+}
+.ui_die {
+  float: left;
+  width: 70%;
+}
+.engle_sadj{
+  float:left; 
+  width:30%;
+}
+.engle_controller {
+    width: 29%;
+}
+.engle_posts {
+  float: left;
+  width: 70%;
+  height: 900px;
+}
+.cont_prof_p{
+     float: left;
+  width: 100%;
+  padding-bottom:12px;
+}
+.cont_list{
+    float: left;
+  background: #fff;
+  height: 400px;
+  width: 100%;
+  box-shadow: 0 1px 1px rgba(0, 0, 0, 0), -1px 0 0 rgba(0,0,0,0.03), 1px 0 0 rgba(0, 0, 0, 0.03), 0 1px 0 rgba(0,0,0,0.12);
+
+}
+.cont_inf_loged{
+    float: left;
+  background: #fff;
+  height: 155px;
+  border-radius: 10px;
+  width: 100%;
+  box-shadow: 0 1px 1px rgba(0, 0, 0, 0), -1px 0 0 rgba(0,0,0,0.03), 1px 0 0 rgba(0, 0, 0, 0.03), 0 1px 0 rgba(0,0,0,0.12);
+  border-bottom-right-radius: 0px;
+  border-bottom-left-radius: 0px;
+  overflow: hidden;
+}
+.jeu_efj {
+      background-image: url(img/Technology-Digital-Art-l.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+  height: 92px;
+}
+.kde_ied {
+  position: relative;
+  margin: 0px auto;
+  width: 75px;
+  height: 75px;
+  overflow: hidden;
+  top: -48px;
+  border-radius: 50%;
+  border: 7px solid #fff;
+}
+.kde_ied img {
+  width: 100%;
+  border-radius: 50%;
+  border: 1px solid rgba(87, 47, 197, 0);
+}
+.kc_iece {
+  position: relative;
+  top: -47px;
+  text-align: center;
+  font-family: 'Kurale';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 22px
+}
+.kc_iece a{
+    color:#463D5A;
+}
+.ksi_a_i {
+  float: left;
+  width: 82%;
+  margin: 4px 9%;
+}
+.ns_uai a{
+        color: rgb(210, 210, 210);
+}
+.actif i,.actif span,.actif a{
+    color: rgb(83, 0, 226);
+}
+.ns_uai{
+  width: 100%;
+  font-size: 16px;
+   font-family: 'Comfortaa';
+  font-style: normal;
+  font-weight: 400;
+    color: rgb(210, 210, 210);
+}
+.glyphicon-comment {
+  font-size: 22px;
+  top: 5px;
+  left: 2px;
+}
+.ns_uai i{
+  font-size: 26px;
+  padding-right: 19px;
+ 
+}
+.fa-usd{
+  margin-left: 6px;
+}
+.ns_uai span{
+  padding-right: 19px;
+    color: rgb(210, 210, 210);
+}
+.lfl_fri{
+    margin-top:10px;
+}
